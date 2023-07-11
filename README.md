@@ -7,9 +7,6 @@
 </p>-->
 
 I am a Full-stack Developer. :wink:
- 
-![Profile views](https://gpvc.arturio.dev/wilbrenrosario)  <img src="https://img.shields.io/github/followers/wilbrenrosario?label=Follow" style=" float:left, margin-right:10px" />
-
 
 ---
 
